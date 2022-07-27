@@ -5,6 +5,7 @@
   "dependencies": {
     "@nestjs/common": "9.0.1",
     "@nestjs/core": "9.0.1",
+    "aws-lambda": "^1.0.7",
     "express": "^4.17.1",
     "reflect-metadata": "0.1.13",
     "rimraf": "3.0.2",
@@ -14,6 +15,7 @@
   "devDependencies": {
     "@nestjs/cli": "9.0.0",
     "@nestjs/schematics": "9.0.1",
+    "@types/aws-lambda": "^8.10.101",
     "@types/node": "18.0.3",
     "@types/supertest": "2.0.12",
     "@typescript-eslint/eslint-plugin": "5.30.5",
